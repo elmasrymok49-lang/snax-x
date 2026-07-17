@@ -1,0 +1,6 @@
+{
+  "name": "SaW Number OSINT Pro",
+  "description": "Advanced full-stack reverse phone lookup and internet footprint intelligence engine with an interactive modern terminal UI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
